@@ -29,11 +29,41 @@ feature:
   icon_pack: fas
   name: Photography
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "C# / .NET / ASP.NET / EF"
+  description = "100%"
+
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Microservices / Docker / Kubernetes"
+  description = "100%"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "PowerShell"
+  description = "80%"
+  
+[[feature]]
+  icon = "envelope"
+  icon_pack = "fas"
+  name = "Apache Kafka / RabbitMQ"
+  description = "80%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MongoDB / Redis"
+  description = "75%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL Server / PostgreSQL"
+  description = "70%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
