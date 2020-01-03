@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "microsoft"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "C# / .NET / ASP.NET / EF"
+  description = "100%"
+
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Microservices / Docker / Kubernetes"
+  description = "100%"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "PowerShell"
+  description = "80%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "envelope"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Apache Kafka / RabbitMQ"
+  description = "80%"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MongoDB / Redis"
+  description = "75%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL Server / PostgreSQL"
+  description = "70%"
 
 +++
