@@ -45,9 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tiksn
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tiksn/
 - icon: github
   icon_pack: fab
   link: https://github.com/tiksn
