@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have 8 years of experience in software development. I am proficient in C#, .NET, Entity Framework, ASP.NET  MVC, OOP/OOD, Software Design Patterns, TDD, Messaging (Kafka, RabbitMQ), and I am experienced in Mobile Development in UWP and Xamarin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Regarding my work habits, I am a focused, goal-oriented worker with a very analytical mind. Frequently, I start independent projects just for fun including my own website and framework and various tools and small utilities, Mobile (Windows) apps. In these projects, I have used technologies that I am interested in but are not used in a corporate environment like Bot Framework. I work very well with a team, in fact, I prefer it to working by myself as I love both giving and receiving advice to and from others
