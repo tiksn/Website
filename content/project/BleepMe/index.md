@@ -1,5 +1,5 @@
 ---
-title: BleepMe (deprecated)
+title: BleepMe
 summary: '[Discontinued] BitTorrent Bleep contact sharing website. People can share their contact info and some personal details, other can search by certain criteria and add them as a contact.'
 tags:
 - csharp
