@@ -1,7 +1,9 @@
----
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
