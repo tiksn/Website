@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = ""
+subtitle = "Personal website of Tigran (TIKSN) Torosyan"
 title = "TIKSN Home Website"
 weight = 15
 widget = "blank"
@@ -10,6 +10,7 @@ css_class = ""
 css_style = ""
 [design]
 columns = "1"
+flip_alt_rows = false
 show_interests = true
 show_social = true
 [design.background]
