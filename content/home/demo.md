@@ -8,7 +8,8 @@ widget = "blank"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
 columns = "1"
-show_social = false
+show_interests = true
+show_social = true
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
