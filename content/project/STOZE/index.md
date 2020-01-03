@@ -1,5 +1,5 @@
 ---
-title: STOZE (deprecated)
+title: STOZE
 summary: '[Discontinued] Torrent files sharing website.'
 tags:
 - csharp
