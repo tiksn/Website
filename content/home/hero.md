@@ -2,7 +2,7 @@
 active = false
 headless = true
 hero_media = "hero-academic.png"
-title = "TIKSN"
+title = "TIKSN Home Website"
 weight = 10
 widget = "hero"
 [cta]
