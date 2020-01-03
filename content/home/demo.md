@@ -10,7 +10,7 @@ css_class = ""
 css_style = ""
 [design]
 columns = "1"
-show_social = true
+show_social = false
 [design.background]
 gradient_end = "ForestGreen"
 gradient_start = "DarkGreen"
