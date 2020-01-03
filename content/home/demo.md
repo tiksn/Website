@@ -1,13 +1,14 @@
 +++
 active = true
 headless = true
-subtitle = ""
+subtitle = "Personal website of Tigran (TIKSN) Torosyan"
 title = "TIKSN Home Website"
 weight = 15
 widget = "blank"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
 columns = "1"
+flip_alt_rows = false
 show_interests = true
 show_social = true
 [design.background]
