@@ -1,6 +1,6 @@
 ---
 title: Grocery Checklist API
-summary: '[Discontinued] Grocery Checklist bank end API. Provides a list of categories, products, way to sign up and sign in with social networks, add items to buy, mark them as bought.'
+summary: '[Discontinued] Grocery Checklist back-end API. Provides a list of categories, products, ways to sign up and sign in with social networks, add items to buy, mark them as bought.'
 tags:
 - csharp
 - dotnet
