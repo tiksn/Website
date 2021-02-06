@@ -1,6 +1,6 @@
 ---
 title: Locale Graph
-summary: '[Deprecated] This is a simple WPF desktop application, enabling user to browse .NET cultures, regions and currencies available on the local machine and its relations. After selection graph creation option, user can view dependencies of these three entities as a graph.'
+summary: '[Deprecated] This is a simple WPF desktop application, enabling users to browse .NET cultures, regions and currencies available on the local machine and its relations. After the selection graph creation option, the user can view the dependencies of these three entities as a graph.'
 tags:
 - csharp
 - dotnet
