@@ -18,7 +18,7 @@ organizations:
   url: "https://www.brightgrove.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a .NET Lead Engineer
 
 interests:
 - Solution architecture
