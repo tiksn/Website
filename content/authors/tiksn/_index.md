@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tigran (TIKSN) Torosyan
+title: Tigran (TIKSN) Torosyan
 
 # Username (this should match the folder name)
 authors:
