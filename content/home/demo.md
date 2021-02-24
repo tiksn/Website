@@ -20,8 +20,7 @@ design:
     - '0'
 headless: true
 subtitle: Personal website of Tigran (TIKSN) Torosyan
-title: TIKSN Home Website
+title: TIKSN.com
 weight: 15
 widget: blank
 ---
-Hi, I am Tigran (TIKSN) Torosyan. Welcome to my website!
