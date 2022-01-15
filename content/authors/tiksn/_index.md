@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Backend Technical Leader
+role: Backend Technical Leader, Team Leader
 
 # Organizations/Affiliations
 organizations:
-- name: Brightgrove
-  url: "https://www.brightgrove.com/"
+- name: DataArt
+  url: "https://www.dataart.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a .NET Lead Engineer
