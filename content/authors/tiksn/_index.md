@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tigran (TIKSN) Torosyan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tigran
+last_name: Torosyan
 
 # Status emoji
 status:
@@ -14,34 +14,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Team Leader, Senior Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Outcrew
+    url: https://outcrew.net/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a .NET Lead Engineer
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solution architecture
+  - Cloud computing
+  - Microservices, Service Mesh and Orchestration
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Computer Information Science
+      institution: American University of Armenia
+      year: 2014
+    - course: Bachelor of Informatics and Applied Mathematics
+      institution: Yerevan State University
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,25 +50,22 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tiksn
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/tiksn/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/tiksn
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +74,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a Software Team Leader with over **12** years of experience in developing and maintaining web and mobile applications, backend APIs, and microservices.
+
+Skilled in leading teams of developers to successfully deliver complex software projects. I am not afraid of architectural or technical challenges. Excellent communication and interpersonal skills, with the ability to build strong relationships with team members and stakeholders.
+
+I have experience in mentoring team members to level up their skills. Proficient in various programming languages and technologies, primarily *C#*, *.NET*, *Entity Framework \[Core\]*, *ASP.NET MVC \[Core\]*, *OOP/OOD*, *Software Design Patterns*, *TDD*, *Messaging (Kafka, RabbitMQ)*, *Microservice Architecture*, *Kubernetes*, *Docker*, *PowerShell \[Core\]*, *CI/CD*, with a focus on creating efficient and scalable software solutions.
+
+Outside of work, I authored several non-commercial projects as technology PoC or automation tools.
